@@ -6,5 +6,6 @@ public class principal {
 		calculadora miCalc = new calculadora();
 		System.out.println(miCalc.sumar(5,3));
 		System.out.println(miCalc.restar(5,3));
+		System.out.println(miCalc.multiplicar(5,3));
 	}
 }
